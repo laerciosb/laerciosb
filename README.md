@@ -10,9 +10,6 @@
           src="https://github-readme-stats-fast.vercel.app/api/streak?username=laerciosb&theme=github_dark" />
       </td>
     </tr>
-  </table>
-
-  <table>
     <tr>
       <td>
         <img width="450px"
